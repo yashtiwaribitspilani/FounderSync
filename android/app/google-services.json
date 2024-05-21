@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "1069430708836",
+    "project_id": "cofounder-40112",
+    "storage_bucket": "cofounder-40112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069430708836:android:e136a493f3d68f264ddd71",
+        "android_client_info": {
+          "package_name": "com.futuratech.foundersync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069430708836-lkpt11d88ha82ulpimga9smn83q8o1je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.futuratech.foundersync",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1069430708836-uhsajqn9rc1av7m5ljnnr3vteikovr50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3IXGAFyHX5nhbkhnyOkP_O4br3VyIjl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069430708836-uhsajqn9rc1av7m5ljnnr3vteikovr50.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069430708836-9k1viek48cmd91thijets7l51kevc7p3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.futuratech.foundersync"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069430708836:android:a2fbc8ba03b65db04ddd71",
+        "android_client_info": {
+          "package_name": "com.mycompany.cofounder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069430708836-0cmmup7firc3gl2fb22p3mf7cdd6ovua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cofounder",
+            "certificate_hash": "76dffe6544359ee41aeaf7994fb479ce52e6c1c4"
+          }
+        },
+        {
+          "client_id": "1069430708836-1jnb37703co6f1ur99899jaeg4rht2fe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cofounder",
+            "certificate_hash": "5cc8f07754f9815fc35eeec6cfaa08f2adf516d9"
+          }
+        },
+        {
+          "client_id": "1069430708836-6i7vg4fuu4djbupee1881uv5j4nbgb0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cofounder",
+            "certificate_hash": "244ed467c3560c35d63b9663394709d6ffe9e199"
+          }
+        },
+        {
+          "client_id": "1069430708836-ef4l7veofis0uq7hl2s6saosnpgogg2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cofounder",
+            "certificate_hash": "c28dfc52ea18c78fb89bc64a81acdae04c4bbca5"
+          }
+        },
+        {
+          "client_id": "1069430708836-hlhhf30mo0oplilpn5qvkjalcrmo551d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cofounder",
+            "certificate_hash": "e8a62b9427d0fa248b051044516ecca84479183c"
+          }
+        },
+        {
+          "client_id": "1069430708836-ng06vmnfejvidvmalb882l388k6sda6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cofounder",
+            "certificate_hash": "ece2de08296846ad13f997ea23c8c1b94c9b5ef0"
+          }
+        },
+        {
+          "client_id": "1069430708836-on94ig65lhgn9d6eiels4c47ucmlcj0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cofounder",
+            "certificate_hash": "a1c81b74e7dec8116b8984b9d514c74af8933945"
+          }
+        },
+        {
+          "client_id": "1069430708836-ub0fmiuilg0n3t2f4ng1dti3u7ofjapr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cofounder",
+            "certificate_hash": "f5e0f17f50c150acca2bdd646aa273c9cc77d157"
+          }
+        },
+        {
+          "client_id": "1069430708836-uhsajqn9rc1av7m5ljnnr3vteikovr50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3IXGAFyHX5nhbkhnyOkP_O4br3VyIjl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069430708836-uhsajqn9rc1av7m5ljnnr3vteikovr50.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069430708836-9k1viek48cmd91thijets7l51kevc7p3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.futuratech.foundersync"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
