@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.solusibejo.flutter_meta_sdk-merged_res-24:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yasht\\.gradle\\caches\\transforms-3\\4a53b917c7f444c13159aecbb3edd411\\transformed\\appcompat-1.1.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yasht\\.gradle\\caches\\transforms-3\\9e10a6f11fa2dc0d52fb26213a0d34f2\\transformed\\core-1.6.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.solusibejo.flutter_meta_sdk-mergeReleaseResources-22:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yasht\\.gradle\\caches\\transforms-3\\4a53b917c7f444c13159aecbb3edd411\\transformed\\appcompat-1.1.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yasht\\.gradle\\caches\\transforms-3\\9e10a6f11fa2dc0d52fb26213a0d34f2\\transformed\\core-1.6.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

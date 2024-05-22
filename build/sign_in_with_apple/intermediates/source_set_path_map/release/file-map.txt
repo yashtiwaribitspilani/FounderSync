@@ -1,0 +1,13 @@
+com.aboutyou.dart_packages.sign_in_with_apple-jetified-window-java-1.0.0-beta04-0 C:\Users\yasht\.gradle\caches\transforms-3\64bab641c511cc1cec2b0413b98cce55\transformed\jetified-window-java-1.0.0-beta04\res
+com.aboutyou.dart_packages.sign_in_with_apple-core-1.6.0-1 C:\Users\yasht\.gradle\caches\transforms-3\9e10a6f11fa2dc0d52fb26213a0d34f2\transformed\core-1.6.0\res
+com.aboutyou.dart_packages.sign_in_with_apple-browser-1.2.0-2 C:\Users\yasht\.gradle\caches\transforms-3\cbb5bc232b12b91380c18be5d1df0a26\transformed\browser-1.2.0\res
+com.aboutyou.dart_packages.sign_in_with_apple-jetified-window-1.0.0-beta04-3 C:\Users\yasht\.gradle\caches\transforms-3\de5ac69c98d005900309d326b93e0264\transformed\jetified-window-1.0.0-beta04\res
+com.aboutyou.dart_packages.sign_in_with_apple-jetified-annotation-experimental-1.1.0-4 C:\Users\yasht\.gradle\caches\transforms-3\f8efbd3c1c8d100f7f27b7d776bbfa20\transformed\jetified-annotation-experimental-1.1.0\res
+com.aboutyou.dart_packages.sign_in_with_apple-main-5 C:\Users\yasht\AppData\Local\Pub\Cache\hosted\pub.dev\sign_in_with_apple-4.3.0\android\src\main\res
+com.aboutyou.dart_packages.sign_in_with_apple-release-6 C:\Users\yasht\AppData\Local\Pub\Cache\hosted\pub.dev\sign_in_with_apple-4.3.0\android\src\release\res
+com.aboutyou.dart_packages.sign_in_with_apple-pngs-7 D:\restaurant_app\FounderSync\build\sign_in_with_apple\generated\res\pngs\release
+com.aboutyou.dart_packages.sign_in_with_apple-resValues-8 D:\restaurant_app\FounderSync\build\sign_in_with_apple\generated\res\resValues\release
+com.aboutyou.dart_packages.sign_in_with_apple-rs-9 D:\restaurant_app\FounderSync\build\sign_in_with_apple\generated\res\rs\release
+com.aboutyou.dart_packages.sign_in_with_apple-mergeReleaseResources-10 D:\restaurant_app\FounderSync\build\sign_in_with_apple\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.aboutyou.dart_packages.sign_in_with_apple-mergeReleaseResources-11 D:\restaurant_app\FounderSync\build\sign_in_with_apple\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.aboutyou.dart_packages.sign_in_with_apple-merged_res-12 D:\restaurant_app\FounderSync\build\sign_in_with_apple\intermediates\merged_res\release
