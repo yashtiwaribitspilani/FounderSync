@@ -23,6 +23,18 @@
 	<string>????</string>
 	<key>CFBundleURLTypes</key>
 	<array>
+	<dict>
+         		<key>CFBundleURLSchemes</key>
+        <array>
+            <string>fb3634445786805127</string>
+        </array>
+<key>FacebookAppID</key>
+<string>3634445786805127</string>
+<key>FacebookClientToken</key>
+<string>1fd9765c79e9ca1e383a2052ab34b150</string>
+<key>FacebookDisplayName</key>
+<string>Founder Sync</string>
+</dict>
         <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>

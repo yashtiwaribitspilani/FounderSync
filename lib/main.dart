@@ -9,6 +9,7 @@ import 'auth/firebase_auth/auth_util.dart';
 import 'backend/push_notifications/push_notifications_util.dart';
 import 'backend/firebase/firebase_config.dart';
 import 'flutter_flow/flutter_flow_util.dart';
+import 'package:flutter_meta_sdk/flutter_meta_sdk.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

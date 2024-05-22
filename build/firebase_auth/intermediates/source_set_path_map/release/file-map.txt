@@ -1,0 +1,17 @@
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-basement-18.1.0-0 C:\Users\yasht\.gradle\caches\transforms-3\1c9cccb996eb4621bcb710700e409dfb\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-firebase-common-20.4.2-1 C:\Users\yasht\.gradle\caches\transforms-3\2f5ad07089b64238b32a06f2b7a5c468\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.auth.firebase_auth-browser-1.4.0-2 C:\Users\yasht\.gradle\caches\transforms-3\4fcb27c4882670f64e0a0cf0113116f6\transformed\browser-1.4.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-java-1.0.0-beta04-3 C:\Users\yasht\.gradle\caches\transforms-3\64bab641c511cc1cec2b0413b98cce55\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-base-18.0.1-4 C:\Users\yasht\.gradle\caches\transforms-3\9518b85f3063f93d354c5953d9ef904d\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.auth.firebase_auth-core-1.6.0-5 C:\Users\yasht\.gradle\caches\transforms-3\9e10a6f11fa2dc0d52fb26213a0d34f2\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-1.0.0-beta04-6 C:\Users\yasht\.gradle\caches\transforms-3\de5ac69c98d005900309d326b93e0264\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-annotation-experimental-1.1.0-7 C:\Users\yasht\.gradle\caches\transforms-3\f8efbd3c1c8d100f7f27b7d776bbfa20\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-main-8 C:\Users\yasht\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.17.7\android\src\main\res
+io.flutter.plugins.firebase.auth.firebase_auth-release-9 C:\Users\yasht\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.17.7\android\src\release\res
+io.flutter.plugins.firebase.auth.firebase_auth-pngs-10 D:\restaurant_app\FounderSync\build\firebase_auth\generated\res\pngs\release
+io.flutter.plugins.firebase.auth.firebase_auth-resValues-11 D:\restaurant_app\FounderSync\build\firebase_auth\generated\res\resValues\release
+io.flutter.plugins.firebase.auth.firebase_auth-rs-12 D:\restaurant_app\FounderSync\build\firebase_auth\generated\res\rs\release
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-13 D:\restaurant_app\FounderSync\build\firebase_auth\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-14 D:\restaurant_app\FounderSync\build\firebase_auth\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.auth.firebase_auth-merged_res-15 D:\restaurant_app\FounderSync\build\firebase_auth\intermediates\merged_res\release
+io.flutter.plugins.firebase.auth.firebase_auth-packaged_res-16 D:\restaurant_app\FounderSync\build\firebase_core\intermediates\packaged_res\release
