@@ -538,3 +538,10 @@ int? topercentageprofile(double? value) {
   }
   return (value * 100).ceil();
 }
+
+String? linkedInidextractor(String? url) {
+  if (url == null || url.isEmpty) {
+    return "error";
+  }
+  return url.substring(28, url.lastIndexOf("/"));
+}

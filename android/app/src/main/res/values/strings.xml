@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <resources>
     <string name="app_name">FounderSync</string>
-<string name="facebook_app_id">3634445786805127</string>
-   <string name="fb_login_protocol_scheme">fb3634445786805127</string>
-   <string name="facebook_client_token">1fd9765c79e9ca1e383a2052ab34b150</string> 
+
 </resources>

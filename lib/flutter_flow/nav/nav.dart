@@ -74,13 +74,13 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
       debugLogDiagnostics: true,
       refreshListenable: appStateNotifier,
       errorBuilder: (context, state) =>
-          appStateNotifier.loggedIn ? const PeopleWidget() : const Login2Widget(),
+          appStateNotifier.loggedIn ? const PeopleWidget() : const Login2CopyWidget(),
       routes: [
         FFRoute(
           name: '_initialize',
           path: '/',
           builder: (context, _) =>
-              appStateNotifier.loggedIn ? const PeopleWidget() : const Login2Widget(),
+              appStateNotifier.loggedIn ? const PeopleWidget() : const Login2CopyWidget(),
         ),
         FFRoute(
           name: 'people',
@@ -645,7 +645,7 @@ class FFRoute {
 
           if (requireAuth && !appStateNotifier.loggedIn) {
             appStateNotifier.setRedirectLocationIfUnset(state.uri.toString());
-            return '/login2';
+            return '/login2testing';
           }
           return null;
         },
