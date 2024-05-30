@@ -2,6 +2,7 @@ import '/flutter_flow/flutter_flow_theme.dart';
 import '/flutter_flow/flutter_flow_util.dart';
 import '/flutter_flow/custom_functions.dart' as functions;
 import 'package:flutter/material.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'jobcard2editable_model.dart';
 export 'jobcard2editable_model.dart';
 
@@ -148,24 +149,34 @@ class _Jobcard2editableWidgetState extends State<Jobcard2editableWidget>
                             mainAxisSize: MainAxisSize.max,
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
-                              Padding(
-                                padding: const EdgeInsetsDirectional.fromSTEB(
-                                    0.0, 0.0, 0.0, 6.0),
-                                child: Text(
-                                  valueOrDefault<String>(
-                                    widget.companyname,
-                                    'companyname',
+                              Row(
+                                mainAxisSize: MainAxisSize.max,
+                                children: [
+                                  FaIcon(
+                                    FontAwesomeIcons.solidBuilding,
+                                    color: FlutterFlowTheme.of(context).primary,
+                                    size: 18.0,
                                   ),
-                                  style: FlutterFlowTheme.of(context)
-                                      .bodyMedium
-                                      .override(
-                                        fontFamily: 'Readex Pro',
-                                        color: FlutterFlowTheme.of(context)
-                                            .primary,
-                                        fontSize: 22.0,
-                                        letterSpacing: 0.0,
+                                  Padding(
+                                    padding: const EdgeInsetsDirectional.fromSTEB(
+                                        5.0, 0.0, 0.0, 6.0),
+                                    child: Text(
+                                      valueOrDefault<String>(
+                                        widget.companyname,
+                                        'companyname',
                                       ),
-                                ),
+                                      style: FlutterFlowTheme.of(context)
+                                          .bodyMedium
+                                          .override(
+                                            fontFamily: 'Readex Pro',
+                                            color: FlutterFlowTheme.of(context)
+                                                .primary,
+                                            fontSize: 18.0,
+                                            letterSpacing: 0.0,
+                                          ),
+                                    ),
+                                  ),
+                                ],
                               ),
                               Padding(
                                 padding: const EdgeInsetsDirectional.fromSTEB(
@@ -179,7 +190,7 @@ class _Jobcard2editableWidgetState extends State<Jobcard2editableWidget>
                                       .bodyMedium
                                       .override(
                                         fontFamily: 'Readex Pro',
-                                        fontSize: 18.0,
+                                        fontSize: 14.0,
                                         letterSpacing: 0.0,
                                       ),
                                 ),
@@ -196,7 +207,7 @@ class _Jobcard2editableWidgetState extends State<Jobcard2editableWidget>
                                       .bodyMedium
                                       .override(
                                         fontFamily: 'Readex Pro',
-                                        fontSize: 15.0,
+                                        fontSize: 12.0,
                                         letterSpacing: 0.0,
                                       ),
                                 ),
@@ -218,7 +229,7 @@ class _Jobcard2editableWidgetState extends State<Jobcard2editableWidget>
                       ),
                       style: FlutterFlowTheme.of(context).bodyMedium.override(
                             fontFamily: 'Readex Pro',
-                            fontSize: 12.0,
+                            fontSize: 10.0,
                             letterSpacing: 0.0,
                           ),
                     ),
@@ -237,7 +248,7 @@ class _Jobcard2editableWidgetState extends State<Jobcard2editableWidget>
                       ),
                       style: FlutterFlowTheme.of(context).bodyMedium.override(
                             fontFamily: 'Readex Pro',
-                            fontSize: 12.0,
+                            fontSize: 10.0,
                             letterSpacing: 0.0,
                           ),
                     ),
@@ -252,7 +263,7 @@ class _Jobcard2editableWidgetState extends State<Jobcard2editableWidget>
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
                           fontFamily: 'Readex Pro',
-                          fontSize: 12.0,
+                          fontSize: 10.0,
                           letterSpacing: 0.0,
                         ),
                   ),

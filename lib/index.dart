@@ -69,3 +69,5 @@ export '/pages/startupfilter/startupfilter_widget.dart'
     show StartupfilterWidget;
 export '/profile_edit_page/profile_edit_page_widget.dart'
     show ProfileEditPageWidget;
+export '/step1/step1_widget.dart' show Step1Widget;
+export '/linked_in_step2/linked_in_step2_widget.dart' show LinkedInStep2Widget;

@@ -491,8 +491,7 @@ class _CreateAccount2WidgetState extends State<CreateAccount2Widget> {
                                                 'Button_navigate_to');
 
                                             context.pushNamedAuth(
-                                                'ideaflowdecider',
-                                                context.mounted);
+                                                'Step1', context.mounted);
 
                                             setState(() {});
                                           },

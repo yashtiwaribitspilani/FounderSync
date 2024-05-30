@@ -1390,7 +1390,7 @@ class _PeopleWidgetState extends State<PeopleWidget> {
                           ),
                         ),
                         Align(
-                          alignment: const AlignmentDirectional(-0.47, 0.76),
+                          alignment: const AlignmentDirectional(-0.47, 0.73),
                           child: Padding(
                             padding: const EdgeInsetsDirectional.fromSTEB(
                                 10.0, 10.0, 10.0, 28.0),

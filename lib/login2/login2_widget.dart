@@ -220,8 +220,8 @@ class _Login2WidgetState extends State<Login2Widget> {
                                                     logFirebaseEvent(
                                                         'loginbuttonmainpage_navigate_to');
 
-                                                    context.pushNamedAuth(
-                                                      'linkedIn',
+                                                    context.goNamedAuth(
+                                                      'Step1',
                                                       context.mounted,
                                                       extra: <String, dynamic>{
                                                         kTransitionInfoKey:

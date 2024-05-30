@@ -233,6 +233,8 @@ final parametersBuilderMap =
       ),
   'startupfilter': ParameterData.none(),
   'profileEditPage': ParameterData.none(),
+  'Step1': ParameterData.none(),
+  'linkedInStep2': ParameterData.none(),
 };
 
 Map<String, dynamic> getInitialParameterData(Map<String, dynamic> data) {

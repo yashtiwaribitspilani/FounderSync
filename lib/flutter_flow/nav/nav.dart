@@ -474,6 +474,16 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
           name: 'profileEditPage',
           path: '/profileEditPage',
           builder: (context, params) => const ProfileEditPageWidget(),
+        ),
+        FFRoute(
+          name: 'Step1',
+          path: '/step1',
+          builder: (context, params) => const Step1Widget(),
+        ),
+        FFRoute(
+          name: 'linkedInStep2',
+          path: '/linkedInStep2',
+          builder: (context, params) => const LinkedInStep2Widget(),
         )
       ].map((r) => r.toRoute(appStateNotifier)).toList(),
       observers: [routeObserver],
